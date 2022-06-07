@@ -1,4 +1,5 @@
 # Eugenia Minukova
+![my-photo](./2019.png)
 ## Contacts
 **Phone number:** +38 099 773 77 70
 
