@@ -1,5 +1,5 @@
 # Eugenia Minukova
-![my-photo](./2019.png)
+![my-photo](2019.jpg)
 ## Contacts
 **Phone number:** +38 099 773 77 70
 
@@ -20,5 +20,14 @@ January 2019 - up to now
 * Control of the correctness of interest accrual, withholding taxes.
 * Control of observance of the banking legislation of Ukraine in accounting.
 * Participation in the automation of bank processes.
+
+**Mobile banker**
+_**Raiffeisen Bank Aval**_
+
+October 2018 - December 2018
+
+* Making calls and appointments with clients.
+* Presentation and consulting on loans, credit cards of clients.
+* Concluding credit agreements with clients.
 
 
