@@ -11,6 +11,13 @@
 
 I quickly learn new knowledge, purposeful, responsible, organized, no bad habits, lead a healthy lifestyle, have a great desire to develop and work.
 
+## Projects
+1. https://github.com/EvgeniaM6/my-rezume - [ HTML5, CSS3 ]
+2. https://github.com/EvgeniaM6/rsschool-cv - [ Markdown ]
+
+## Code examples
+* ```def multiply(a, b): return (a * b)```
+
 ## Work Experience
 
 **Economist**
@@ -36,6 +43,7 @@ October 2018 - December 2018
 * HTML5
 * CSS3
 * GIT
+* English level: B1
 
 ## Education
 
@@ -44,3 +52,4 @@ _**V. N. Karazin Kharkiv National University**_
 **Finance, banking and insurance**
 
 September 2015 - December 2020
+
