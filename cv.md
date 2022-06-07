@@ -5,6 +5,8 @@
 
 **e-mail:** evgminukova6@gmail.com
 
+**rs school nickname:** EvgeniaM6
+
 ## About me
 
 I quickly learn new knowledge, purposeful, responsible, organized, no bad habits, lead a healthy lifestyle, have a great desire to develop and work.
@@ -29,5 +31,10 @@ October 2018 - December 2018
 * Making calls and appointments with clients.
 * Presentation and consulting on loans, credit cards of clients.
 * Concluding credit agreements with clients.
+
+## Skills
+* HTML5
+* CSS3
+* GIT
 
 
