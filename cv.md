@@ -37,4 +37,10 @@ October 2018 - December 2018
 * CSS3
 * GIT
 
+## Education
 
+_**V. N. Karazin Kharkiv National University**_
+
+**Finance, banking and insurance**
+
+September 2015 - December 2020
