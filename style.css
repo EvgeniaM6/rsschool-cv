@@ -9,14 +9,17 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-size: 20px;
 }
 
 * {
     box-sizing: border-box;
 }
 
-a {
+a, .skills-desc {
     text-decoration: none;
+    font-weight: bold;
+    color: #0d43b9bc;
 }
 a:hover {
     text-decoration: underline;
@@ -35,13 +38,17 @@ a:hover {
 }
 
 .nav-link {
-    padding: 0 20px;
+    padding: 20px;
     line-height: 50px;
     transition: .3s;
 }
 
 .nav-link:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: #eff4ffbc;
+}
+
+.main {
+    background-color: #eff4ffbc;
 }
 
 .avatar {
@@ -50,18 +57,28 @@ a:hover {
     border-radius: 20px;
 }
 
+.my-name {
+    font-size: 40px;
+}
+
 .section {
     padding: 0 20px;
 }
 
+.section-title {
+    background-color: #0d43b9bc;
+    color: #ffffff;
+    padding: 0 10px;
+}
+
 .section-item a {
-    color: #829985;
+    color: #78a3ffbc;
     text-decoration: none;  
     transition: color 0.5s;
 }
 
 .section-item a:hover {
-    color: #4d2323;
+    color: #0d43b9bc;
 }
 
 .main-container {
@@ -84,6 +101,15 @@ a:hover {
     }
 }
 
+.work-company {
+    font-style: italic;
+    color: #0d43b9bc;
+}
+
+.work-period, .education-period {
+    font-style: italic;
+}
+
 .footer {
     display: block;
     background-color: #9bbcffbc;
@@ -96,6 +122,7 @@ a:hover {
     align-items: center;
     margin: 0 auto;
     padding: 0 20px;
+    font-weight: bold;
 }
 
 .rss {
