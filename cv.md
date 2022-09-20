@@ -1,5 +1,5 @@
 # Eugenia Minukova
-![my-photo](2019.jpg)
+![my-photo](./assets/img/2019.jpg)
 ## Contacts
 **Phone number:** +38 099 773 77 70
 
@@ -12,11 +12,19 @@
 I quickly learn new knowledge, purposeful, responsible, organized, no bad habits, lead a healthy lifestyle, have a great desire to develop and work.
 
 ## Projects
+1. https://rolling-scopes-school.github.io/evgeniam6-JSFEPRESCHOOL2022Q2/travel/ - [ JS, HTML5, CSS3 ]
+1. https://rolling-scopes-school.github.io/evgeniam6-JSFEPRESCHOOL2022Q2/momentum/ - [ JS, HTML5, CSS3 ]
+1. https://evgeniam6.github.io/codejam-eldritch/dist/ - [ JS, HTML5, CSS3 ]
 1. https://github.com/EvgeniaM6/my-rezume - [ HTML5, CSS3 ]
 2. https://github.com/EvgeniaM6/rsschool-cv - [ Markdown ]
 
 ## Code examples
-* ```def multiply(a, b): return (a * b)```
+* ```
+var countBits = function(n) {
+  let binary = n.toString(2).split('')
+  return binary.reduce((prVal, item) => (item === '1' ? prVal + 1 : prVal), 0)
+};
+```
 
 ## Work Experience
 
@@ -40,6 +48,7 @@ October 2018 - December 2018
 * Concluding credit agreements with clients.
 
 ## Skills
+* JS
 * HTML5
 * CSS3
 * GIT
