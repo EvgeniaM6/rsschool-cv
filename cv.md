@@ -1,5 +1,5 @@
 # Eugenia Minukova
-![my-photo](./assets/img/2019.jpg)
+![my-photo](./assets/img/2022.jpg)
 ## Contacts
 **Phone number:** +38 099 773 77 70
 
@@ -19,10 +19,10 @@ I quickly learn new knowledge, purposeful, responsible, organized, no bad habits
 2. https://github.com/EvgeniaM6/rsschool-cv - [ Markdown ]
 
 ## Code examples
-* ```
-var countBits = function(n) {
-  let binary = n.toString(2).split('')
-  return binary.reduce((prVal, item) => (item === '1' ? prVal + 1 : prVal), 0)
+```
+var countBits = function(n) { 
+  let binary = n.toString(2).split('');
+  return binary.reduce((prVal, item) => (item === '1' ? prVal + 1 : prVal), 0); 
 };
 ```
 
